@@ -1,3 +1,3 @@
 # my-demo
 My first repository
-Author-Swapnasagar
+Author-Swapnasagar Sahoo
